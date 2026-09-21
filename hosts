@@ -21,6 +21,7 @@
 0.0.0.0 cookbook.openai.com
 0.0.0.0 community.openai.com
 0.0.0.0 forum.openai.com
+0.0.0.0 chatgpt.com
 # Azure OpenAI (add your own resource sub-domains)
 0.0.0.0 openai.azure.com
 0.0.0.0 cognitiveservices.azure.com
