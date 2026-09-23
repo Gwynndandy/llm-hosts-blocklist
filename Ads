@@ -1952,7 +1952,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mmsotk.com
 
 # Added September 24, 2021 see https://github.com/StevenBlack/hosts/issues/1764
-0.0.0.0 discord-app.net
+#0.0.0.0 discord-app.net
 
 # Added October 2, 2021 see https://github.com/StevenBlack/hosts/issues/1770
 0.0.0.0 sk.mplmnt.io
